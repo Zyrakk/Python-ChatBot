@@ -1,0 +1,84 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "Hola",
+            "respuesta": "Hola ¿En qué puedo ayudarte?"
+        },
+        {
+            "pregunta": "¿Como estás?",
+            "respuesta": "¡Bien! Gracias por preguntar"
+        },
+        {
+            "pregunta": "¿Cuál es tu nombre?",
+            "respuesta": "Soy un chatbot creado para asistirte."
+        },
+        {
+            "pregunta": "¿Qué puedes hacer?",
+            "respuesta": "Puedo responder preguntas, ayudar con información y mucho más."
+        },
+        {
+            "pregunta": "¿Cuál es el clima hoy?",
+            "respuesta": "Lo siento, actualmente no tengo acceso a información en tiempo real."
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Francia?",
+            "respuesta": "La capital de Francia es París."
+        },
+        {
+            "pregunta": "¿Cuántos años tienes?",
+            "respuesta": "No tengo edad, soy un programa de inteligencia artificial."
+        },
+        {
+            "pregunta": "¿Te gusta la música?",
+            "respuesta": "No tengo gustos personales, pero puedo hablar sobre música."
+        },
+        {
+            "pregunta": "¿Puedes contarme un chiste?",
+            "respuesta": "Claro, aquí tienes uno: ¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter."
+        },
+        {
+            "pregunta": "¿Cuál es tu color favorito?",
+            "respuesta": "No tengo preferencias, soy un programa de inteligencia artificial."
+        },
+        {
+            "pregunta": "¿Puedes ayudarme con mis deberes?",
+            "respuesta": "Claro, dime sobre qué tema necesitas ayuda."
+        },
+        {
+            "pregunta": "¿Qué hora es?",
+            "respuesta": "Lo siento, actualmente no puedo proporcionar la hora exacta."
+        },
+        {
+            "pregunta": "¿Cuál es tu comida favorita?",
+            "respuesta": "No como, soy un programa de inteligencia artificial."
+        },
+        {
+            "pregunta": "¿Qué día es hoy?",
+            "respuesta": "Lo siento, no tengo acceso a la fecha actual."
+        },
+        {
+            "pregunta": "¿Puedes traducir algo para mí?",
+            "respuesta": "Sí, puedo ayudarte con traducciones. ¿Qué necesitas traducir?"
+        },
+        {
+            "pregunta": "¿Cuál es tu película favorita?",
+            "respuesta": "No tengo preferencias personales, pero puedo recomendarte algunas películas."
+        },
+        {
+            "pregunta": "¿Puedes recomendarme un libro?",
+            "respuesta": "¡Claro! ¿Te gusta la ficción, la no ficción, o prefieres algún otro género?"
+        },
+        {
+            "pregunta": "¿Cuánto es 2 + 2?",
+            "respuesta": "2 + 2 es 4."
+        },
+        {
+            "pregunta": "¿Cuál es el animal más rápido del mundo?",
+            "respuesta": "El animal más rápido del mundo es el guepardo."
+        },
+        {
+            "pregunta": "¿Dónde está la Torre Eiffel?",
+            "respuesta": "La Torre Eiffel está en París, Francia."
+        }
+    ]
+}
